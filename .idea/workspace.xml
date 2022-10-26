@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e7af444-9110-4c72-8b37-e6d702ad3da1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FGpZvsHwWjcFG6uFmgcXRkSILC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\figma\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e7af444-9110-4c72-8b37-e6d702ad3da1" name="Changes" comment="" />
+      <created>1664128333367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664128333367</updated>
+      <workItem from="1664128334669" duration="133000" />
+      <workItem from="1664128498042" duration="110000" />
+      <workItem from="1664128663454" duration="2393000" />
+      <workItem from="1664193947778" duration="223000" />
+      <workItem from="1664200248758" duration="1598000" />
+      <workItem from="1664204788308" duration="2187000" />
+      <workItem from="1664208311713" duration="5664000" />
+      <workItem from="1664261954860" duration="21000" />
+      <workItem from="1664626019787" duration="19000" />
+      <workItem from="1664630927834" duration="9000" />
+      <workItem from="1664697059085" duration="666000" />
+      <workItem from="1664698103692" duration="328000" />
+      <workItem from="1664702816003" duration="111000" />
+      <workItem from="1664705048504" duration="58000" />
+      <workItem from="1664781450918" duration="7235000" />
+      <workItem from="1664817459351" duration="2089000" />
+      <workItem from="1664867449663" duration="69000" />
+      <workItem from="1665041030551" duration="58000" />
+      <workItem from="1665041211205" duration="36000" />
+      <workItem from="1665042125776" duration="55000" />
+      <workItem from="1665046612244" duration="319000" />
+      <workItem from="1665153774251" duration="2090000" />
+      <workItem from="1665156876817" duration="357000" />
+      <workItem from="1665235634379" duration="1019000" />
+      <workItem from="1665237088361" duration="1713000" />
+      <workItem from="1665240339619" duration="827000" />
+      <workItem from="1665292636102" duration="2966000" />
+      <workItem from="1665295779421" duration="109000" />
+      <workItem from="1665295924019" duration="50000" />
+      <workItem from="1665296328296" duration="184000" />
+      <workItem from="1665296590953" duration="38000" />
+      <workItem from="1665296669198" duration="2103000" />
+      <workItem from="1665299489852" duration="6823000" />
+      <workItem from="1665471737941" duration="1165000" />
+      <workItem from="1665511401538" duration="1327000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
